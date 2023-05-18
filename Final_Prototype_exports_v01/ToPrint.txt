@@ -1,0 +1,8 @@
+Things to print(prototype):
+
+base_1.80mm -------- x1
+base_2.00mm -------- x1
+wall     ----------- x4
+wall_hollow -------  x2
+wall_short  -------  x4
+wall_short_sharpEnds x2
